@@ -1,0 +1,6 @@
+---
+datastore:
+  hostname: "localhost"
+  database: "open_data_test"
+  username: "postgres"
+  password: "postgres"

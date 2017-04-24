@@ -1,0 +1,34 @@
+---
+topic:
+  name: realtor_list
+  schema:
+    fields:
+      - name: first_name
+        type: string
+
+      - name: last_name
+        type: string
+
+      - name: bio
+        type: text
+# topics:
+#   - name: houses
+#     fields:
+#       - name: listing_name
+#         type: string
+#
+#       - name: price
+#         type: string
+#
+#       - name: sale_date
+#         type: string
+#   - name: realtors
+#     fields:
+#       - name: first_name
+#         type: string
+#
+#       - name: last_name
+#         type: string
+#
+#       - name: bio
+#         type: text
